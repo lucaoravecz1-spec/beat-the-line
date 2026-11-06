@@ -1,7 +1,7 @@
 """Elo rating model."""
 
 K = 20
-HOME_ADVANTAGE = 65
+HOME_ADVANTAGE = 55  # pre-registered in writeup/methodology.md, Section 4
 START_RATING = 1500
 
 
